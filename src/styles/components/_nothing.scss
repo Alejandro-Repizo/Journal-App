@@ -1,0 +1,19 @@
+.nothing__main-content {
+    align-items: center;
+    background-color: $primary;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+
+    p {
+        text-align: center;
+        color: $white;
+        letter-spacing: 1px;
+        font-size: 1em;
+    }
+    i {
+        color: $white;
+        margin: .2em 0;
+    }
+}
